@@ -61,3 +61,8 @@
 
 
 Παρακαλώ **μην πειράξετε** το παρόν αρχείο, αλλά δημιουργήστε νέο στο φάκελο σας σύμφωνα με τις [οδηγίες](https://courses-ionio.github.io/help/guide/).
+
+
+
+
+Link για το βιογραφικό: https://github.com/fireleaf22/fireleaf22.github.io  https://github.com/fireleaf22/modern-resume-theme
